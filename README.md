@@ -9,7 +9,9 @@ http://andreiarion.github.io/projet2018.html
 Ce Github contient la réponse apportée par les étudiants suivant :
 Matthieu Roussel, Thierry Golder, Alba Ordoñez, Joël Géhin, Pierre Gelade, Guillaume Soufflet (ordre random)
 
+## Architecture
 
+![architecture](https://github.com/Architecture.png)
 
 
 Précisions sur le projet attendu
