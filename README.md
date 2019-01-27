@@ -27,10 +27,10 @@ Matthieu Roussel, Thierry Golder, Alba Ordoñez, Joël Géhin, Pierre Gelade, Gu
 
 [Requete 2 et 4](https://github.com/MSBigData2019/Gdelt2018-GGGROS/blob/master/Gdelt-ETLChargCassandraRequete2et4.json)
 
-## Présentation de l'architecture
+## Présentation du projet
 [Présentation](https://github.com/MSBigData2019/Gdelt2018-GGGROS/blob/master/Projet_NoSQL_presentation_vFINAL.pptx)
 
-## Demonstration des requetes
+## Demonstration des requetes (utilisation d'angular)
 
 [Requete 1](https://github.com/MSBigData2019/Gdelt2018-GGGROS/blob/master/Gdelt_Requete1.json)
 
