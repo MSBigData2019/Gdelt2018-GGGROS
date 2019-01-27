@@ -11,8 +11,7 @@ Matthieu Roussel, Thierry Golder, Alba Ordoñez, Joël Géhin, Pierre Gelade, Gu
 
 ## Architecture
 
-![architecture](https://github.com/Architecture.png)
-
+![architecture](https://github.com/MSBigData2019/Gdelt2018-GGGROS/blob/master/Architecture.PNG)
 
 Précisions sur le projet attendu
 
