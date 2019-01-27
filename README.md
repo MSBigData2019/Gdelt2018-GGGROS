@@ -13,6 +13,7 @@ Matthieu Roussel, Thierry Golder, Alba Ordoñez, Joël Géhin, Pierre Gelade, Gu
 
 
 Précisions sur le projet attendu
+
 Fonctionnalités de base :
 - Afficher le nombre d’articles/évènements qu’il y a eu pour chaque triplet (jour, pays de l’évènement, langue de l’article).
 - Pour un acteur donné en paramètre, afficher les événements (valeurs de la table events) qui y font référence (dans les derniers 6 mois).
@@ -20,7 +21,7 @@ Fonctionnalités de base :
 - Trouver quels sont les acteurs/pays/organisations qui divisent le plus (par exemple ont eu une perception positive dans une partie du globe et une perception negative dans le rest du monde). Permettez une agrégation par jour/mois/annee.
 
 Fonctionnalité supplémentaire :
-Vous devez proposer et implementer une fonctionnalité supplémentaire qui nous permettra de mieux comprendre l’évolution des relations entre les différents pays, en étudiant le ton des mentions (positives/negatives) dans les articles médias de chaque pays.
+- Vous devez proposer et implementer une fonctionnalité supplémentaire qui nous permettra de mieux comprendre l’évolution des relations entre les différents pays, en étudiant le ton des mentions (positives/negatives) dans les articles médias de chaque pays.
 Par example: en donnant le nom de 2 acteurs/pays, afficher l’évolution du ton des articles qui contiennent les deux acteurs/pays.
 
 Contraintes :
