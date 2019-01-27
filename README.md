@@ -1,5 +1,5 @@
 # Gdelt2018-GGGROS
-Analyse de l’année 2018 via la base de données GDELT
+## Analyse de l’année 2018 via la base de données GDELT
 
 L’objectif du projet est de concevoir un système qui permet d’analyser l’evolution des relations entre les differents pays, en étudiant le ton des mentions (positives/negatives) dans les articles médias de chaque pays.
 
