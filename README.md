@@ -11,6 +11,7 @@ Matthieu Roussel, Thierry Golder, Alba Ordoñez, Joël Géhin, Pierre Gelade, Gu
 
 
 
+
 Précisions sur le projet attendu
 Fonctionnalités de base :
 - Afficher le nombre d’articles/évènements qu’il y a eu pour chaque triplet (jour, pays de l’évènement, langue de l’article).
