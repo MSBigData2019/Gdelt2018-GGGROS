@@ -7,7 +7,7 @@ L’objectif du projet est de concevoir un système qui permet d’analyser l’
 L'exercice auquel nous devions répondre est détaillé à l'adresse suivante :
 http://andreiarion.github.io/projet2018.html
 
-Ce Github contient la réponse apportée par les étudiants suivant :
+Ce Github contient la réponse apportée par les étudiants suivants :
 Matthieu Roussel, Thierry Golder, Alba Ordoñez, Joël Géhin, Pierre Gelade, Guillaume Soufflet
 
 ## Architecture proposée
