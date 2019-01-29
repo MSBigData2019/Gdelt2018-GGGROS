@@ -1,3 +1,4 @@
+![Gdelt](https://github.com/MSBigData2019/Gdelt2018-GGGROS/blob/master/GDELTProjectmainpage.png)
 # Gdelt2018
 ## Analyse de l’année 2018 via la base de données GDELT
 
@@ -43,5 +44,5 @@ Ce script permet d'installer Cassandra sur les trois noeuds et de le connecter �
 
 [Requete 4](https://github.com/MSBigData2019/Gdelt2018-GGGROS/blob/master/Gdelt%20-%20Requ%C3%AAte4%20.json)
 
-
+![Req2](https://github.com/MSBigData2019/Gdelt2018-GGGROS/blob/master/Carte_Requete2.png)
 
