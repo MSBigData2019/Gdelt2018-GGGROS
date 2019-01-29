@@ -19,8 +19,8 @@ Matthieu Roussel, Thierry Golder, Alba Ordoñez, Joël Géhin, Pierre Gelade, Gu
 
 ## Scripts de déploiement de Cassandra
 Ce script permet d'installer Cassandra sur les trois noeuds et de le connecter à Spark.
-![Script de deploiement de Cassandra](https://github.com/MSBigData2019/Gdelt2018-GGGROS/blob/master/deployCassandra/install_cassandra.sh)
 
+![Script de deploiement de Cassandra](https://github.com/MSBigData2019/Gdelt2018-GGGROS/blob/master/deployCassandra/install_cassandra.sh)
 
 ## Traitement des fichiers et export dans Cassandra
 
